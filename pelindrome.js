@@ -1,4 +1,3 @@
-// ** make sure to install "npm install prompt-sync" **
 
 const prompt = require('prompt-sync')();
 
